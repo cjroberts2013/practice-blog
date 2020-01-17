@@ -17,6 +17,4 @@ fsdgsdgs
 
   other notes
 
-
-
-![Me](/img/about.jpg "Profile pic")
+![Profile pic](/img/about.jpg "CJ Roberts")
