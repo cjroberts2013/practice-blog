@@ -9,6 +9,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -67,6 +68,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
+
     {
       resolve: `gatsby-plugin-typography`,
       options: {
